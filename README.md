@@ -1,0 +1,1 @@
+I have been doing contest programming for 4 years but I never did it in an organized way. So I decided to keep track of the things related to contest programming I do and come across from now on here.
